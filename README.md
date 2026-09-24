@@ -89,11 +89,11 @@ The clustering analysis produced three clusters and examined their career-switch
 ## 📂 Project Files
 
 ```text
-Career-Switch-Prediction/
-│
-├── CSE422_Career_Switch_Prediction.ipynb
+├── CSE422_Career_Switch_Prediction (1) (1).ipynb
 ├── Career_Switch_Prediction_Dataset.csv
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ## ▶️ How to Run
@@ -120,7 +120,7 @@ jupyter notebook
 
 5. Run the cells in:
 
-`CSE422_Career_Switch_Prediction.ipynb`
+`CSE422_Career_Switch_Prediction (1) (1).ipynb`
 
 ## 🎓 Course
 
